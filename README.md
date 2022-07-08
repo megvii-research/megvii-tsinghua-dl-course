@@ -8,3 +8,6 @@
 * Real World GAN, [slides](https://github.com/zsc/zsc.github.io/blob/f5e3fb80c354c74420fec3fc0a76b5f57efd014c/Real%20World%20GAN%20V4.pdf), [bilibili](https://www.bilibili.com/video/BV1rV411a7xF?p=2)
 * Neural Network Architectures, [bilibili](https://www.bilibili.com/video/BV1rV411a7xF?p=3)
 * Some Recent Advances in Computer Vision (near 2021): Vision Transformers, Vision-Language models and NeRF [slides](https://github.com/zsc/zsc.github.io/blob/f5e3fb80c354c74420fec3fc0a76b5f57efd014c/Some%20Recent%20Advances%20in%20Computer%20Vision%20(near%202021)(2).pdf), [bilibili](https://www.bilibili.com/video/BV1rV411a7xF?p=4)
+
+### 北大课程
+* https://github.com/megvii-research/megvii-pku-dl-course
