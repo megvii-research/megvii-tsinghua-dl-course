@@ -4,6 +4,7 @@
 * 量化神经网络（一）：基础与 PTQ [slides](https://github.com/megvii-research/megvii-tsinghua-dl-course/blob/717e1aaf268dbb6ec591bef2698485fc3747cf0b/Algorithm1%202022%20Introduction%20to%20Quantized%20Neural%20Network(1).pdf), [bilibili](https://www.bilibili.com/video/BV13a411p7PC?p=1)
 * 量化神经网络（二）：QAT 与硬件 [slides](https://github.com/megvii-research/megvii-tsinghua-dl-course/blob/686b18bec2aa85e53dd191cff8d9a6d8861d28cd/QAT+Hardware-%20Introduction%20to%20Quantized%20Neural%20Network.pdf), [bilibili](https://www.bilibili.com/video/BV13a411p7PC?p=2)
 * 量化神经网络（三）：Vision Transformer 的量化 [slides](https://github.com/megvii-research/megvii-tsinghua-dl-course/blob/2829138057a30df8797efb7cd3c1072042d9575e/quant-vision-transformer.pdf), [bilibili](https://www.bilibili.com/video/BV13a411p7PC?p=3)
+* 量化神经网络（四）：自监督学习与量化 [slides](under review), [bilibili](https://www.bilibili.com/video/BV13a411p7PC?p=4)
 
 ### 2020 ~ 2021, CS
 * Introduction to Computer Vision, [bilibili](https://www.bilibili.com/video/BV1rV411a7xF?p=1)
